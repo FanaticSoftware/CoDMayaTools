@@ -19,7 +19,7 @@ A text editor such as Sublime or Notepad++ for editing .mel scripts
 Installation:
 
 1. Download the current build using the green button
-2. Unzip files to "C:\Users\dev\Documents\maya\2022\scripts"
+2. Unzip files to "C:\Users\dev\Documents\maya\2026\scripts"
 
 Contributors/Credits:
 Ray1235/Scobalula: Active Developers/Maintain Project
