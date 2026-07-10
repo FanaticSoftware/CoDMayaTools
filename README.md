@@ -13,7 +13,7 @@ Ray's Camera Animation Toolkit included for camera animations
 Export XCams for Black Ops 3
 Cosmetic bones for use in Black Ops 3
 Requirements:
-Call of Duty Maya Tools is a plugin for Autodesk's Maya tool and designed for Autodesk Maya 2022 or later
+Call of Duty Maya Tools is a plugin for Autodesk's Maya tool and designed for Autodesk Maya 2026 or later
 A text editor such as Sublime or Notepad++ for editing .mel scripts
 
 Installation:
